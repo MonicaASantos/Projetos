@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color:black;
+  }
+  
+  div {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    margin-right: 5px;
+  }
+  
+  input, button {
+    padding: 5px;
+  }
+  
+  button {
+    cursor: pointer;
+    background-color: red;
+    color: black;
+  }
+  
